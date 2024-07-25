@@ -1,0 +1,1 @@
+277c25b4023a61c142cac1d2872daa242cf172cd9235d48e884123a7dc84bc97  ./target/wasm32-unknown-unknown/release/cw_to_do_list.wasm
